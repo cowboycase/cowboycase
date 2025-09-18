@@ -1,5 +1,4 @@
 # Hi there, I'm Şüheda! 👋 You can call me Shu-Shu!
-: Hakkında kısmının başlığı.
 I'm a 3rd-year Mathematics student at Dokuz Eylül University, passionate about data analysis.
 🔭 Currently working on building my mini fintable.
 🌱 I'm currently learning Machine Learning.
